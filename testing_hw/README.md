@@ -1,5 +1,6 @@
 ### *Issue 1* (doctest)
   [тут](./issue1/morse.py)
+  
   Doctest flag: `python -m doctest -o NORMALIZE_WHITESPACE -v morse.py`
 
 ### *Issue 2* (pytest.mark.parametrize)
