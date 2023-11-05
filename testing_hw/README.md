@@ -1,3 +1,6 @@
+[Постановка задачи тут](https://github.com/siauPatrick/mai-python/blob/master/03-instrumenty-testirovaniya-v-python/issues.md)
+
+
 ### *Issue 1* (doctest)
   [тут](./issue1/morse.py)
   
