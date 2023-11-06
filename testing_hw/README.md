@@ -11,7 +11,7 @@
 
 ### *Issue 4* (pytest One Hot) -- [тут](./issue4/is4.py)
 
-### *Issue 5* (all tests 100% coverage) -- тут
+### *Issue 5* (all tests 100% coverage) -- [тут](./issue5/is5.py)
 *(команды в терминале)*
 Для запуска тестов:
 `python -m pytest -v -s is5.py`
